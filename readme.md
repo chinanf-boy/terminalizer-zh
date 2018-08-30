@@ -15,10 +15,15 @@
 
 <!-- doc-templite START generated -->
 <!-- time = '2018 7.31' -->
-
+<!-- repo = 'faressoft/terminalizer' -->
+<!-- commit = 'a0b6574e78440c544d2bfea41865004b610bd8ab' -->
 翻译的原文 | 与日期 | 最新更新 | 更多
 ---|---|---|---
-[commit] | ⏰ 2018 7.31 | ![last] | [中文翻译][more]
+[commit] | ⏰ 2018 7.31 | ![last] | [中文翻译][translate-list]
+
+[last]: https://img.shields.io/github/last-commit/faressoft/terminalizer.svg
+[commit]: https://github.com/faressoft/terminalizer/tree/a0b6574e78440c544d2bfea41865004b610bd8ab
+
 <!-- doc-templite END generated -->
 
 [last]: https://img.shields.io/github/last-commit/faressoft/terminalizer.svg
